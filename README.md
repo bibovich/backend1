@@ -24,4 +24,4 @@ Design and implement a back-end system that allows users to register and log in.
 * After creating the database, you should see it listed under the "Databases" node in the left sidebar of pgAdmin
 
 ## Run the application
-Run `node app.js` to run the project. [Visit](http://localhost:3000/register) to register and  [visit](http://localhost:3000/login) to log in.
+Run `node server.js` to run the project. [Visit](http://localhost:3000/register) to register and  [visit](http://localhost:3000/login) to log in.
