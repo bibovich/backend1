@@ -6,8 +6,8 @@ Design and implement a back-end system that allows users to register and log in.
 ## Requirements
 * Setup and Installation:
   * To install Node.js and PostgreSQL on your machine you can use npm to initialize your project and install necessary packages:
-      ```npm init -y
-       npm install express pg bcrypt body-parser express-session ```
+      ```npm init -y```
+      ```npm install express pg bcrypt body-parser express-session```
   * Install PgAdmin to create database from [here](https://www.pgadmin.org/download/).
   * Clone this repository to your local machine.
 ## Connect Database:
