@@ -5,7 +5,7 @@ This project involves creating a user registration and login system using Node.j
 Design and implement a back-end system that allows users to register and log in.
 ## Requirements
 * Setup and Installation:
-  * To install Node.js and PostgreSQL on your machine you can use npm to initialize your project and install necessary packages:
+  * To install Node.js and PostgreSQL on your machine you can use npm to initialize your project and install necessary packages:<br />
       ```npm init -y```<br />
       ```npm install express pg bcrypt body-parser express-session```<br />
   * Install PgAdmin to create database from [here](https://www.pgadmin.org/download/).
